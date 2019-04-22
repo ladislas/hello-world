@@ -5,9 +5,7 @@ char version[] = "1.0.0";
 int main() {
 
 	std::cout
-		<< "\n"
-		<< "Hello, World!"
-		<< "\n"
+		<< "Hello, World!\n"
 		<< "Version " << version
 		<< std::endl;
 
