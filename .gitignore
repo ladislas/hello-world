@@ -26,6 +26,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Build dir
+
+build/*
+
 # Prerequisites
 *.d
 
