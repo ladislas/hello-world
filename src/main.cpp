@@ -9,7 +9,7 @@ int main() {
 		<< "Version " << version
 		<< std::endl;
 
-    return 0;
+	return 0;
 
 }
 
