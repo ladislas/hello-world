@@ -1,6 +1,6 @@
 #include <iostream>
 
-char version[] = "1.0.0";
+char version[] = "2.0.0";
 
 int main() {
 
@@ -9,7 +9,7 @@ int main() {
 		<< "Version " << version
 		<< std::endl;
 
-    return 0;
+	return 0;
 
 }
 
