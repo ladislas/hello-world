@@ -1,6 +1,6 @@
 #include <iostream>
 
-char version[] = "5.0.0";
+char version[] = "6.0.0";
 
 int main() {
 
