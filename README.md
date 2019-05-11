@@ -4,4 +4,4 @@ Simple C++ Hello World CLI to play with Homebrew test-bot.
 
 ## Current version
 
-> `v7.0.0`
+> `v8.0.0`

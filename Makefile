@@ -14,3 +14,5 @@ clean:
 	rm -rf ./build
 	rm -rf /usr/local/bin/hello
 
+bump:
+	@bash ./tools/bump.sh $<
