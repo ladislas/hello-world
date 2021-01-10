@@ -8,7 +8,7 @@ int main() {
 	std::string username = getlogin();
 
 	std::cout
-		<< "Hello, " << username << "!\n"
+		<< "Hello, world!\n"
 		<< "Version " << version
 		<< std::endl;
 
