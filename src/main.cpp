@@ -1,7 +1,7 @@
 #include <iostream>
 #include <unistd.h>
 
-char version[] = "8.0.0";
+char version[] = "9.0.0";
 
 int main() {
 
